@@ -17,8 +17,9 @@ https://hub.docker.com/r/_/node/) image with a customizable entrypoint to run ex
 Supported Tags
 --------------
 
-- [`latest`](https://github.com/painless-software/docker-npm/blob/master/Dockerfile) ![Layers](
-https://images.microbadger.com/badges/image/painess/npm:latest.svg) (node base image with adapted entrypoint)
+- [`latest`](https://github.com/painless-software/docker-npm/blob/master/Dockerfile) [![Image Layers](
+  https://img.shields.io/imagelayers/layers/painless/npm/latest.svg)](https://imagelayers.io/?images=painless/npm:latest
+  ) (node base image with adapted entrypoint)
 
 Usage
 -----
